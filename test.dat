@@ -1,0 +1,1 @@
+Table[{dos[ii, j][[1]] - DV, Sum[dos[ii, j][[k]], {iAtom, ii, ii}, {k, 2, 10}]}, {j, 1, EndOfFile}]
